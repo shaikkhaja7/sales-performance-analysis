@@ -16,7 +16,7 @@ top products, regional performance, and the impact of discounts on profitability
 - How does discounting affect profitability?
 
 ## 📊 Tableau Dashboard (Interactive)
-🔗 **Live link:** [https://public.tableau.com/your-real-dashboard-link](https://prod-in-a.online.tableau.com/#/site/khajashaik2992786-e570fa9985/views/salesandprofits/Dashboard1?:iid=2)
+🔗 **Live link:** [https://prod-in-a.online.tableau.com/#/site/khajashaik2992786-e570fa9985/views/salesandprofits/Dashboard1?:iid=2]
 
 ![Dashboard Preview]
 
