@@ -16,7 +16,7 @@ regional performance, and the impact of discounts on profitability.
 
 ## Tableau Dashboard
 🔗 Live Dashboard:
-[https://prod-in-a.online.tableau.com/#/site/khajashaik2992786-e570fa9985/views/salesandprofits/Dashboard1?:iid=2]
+https://public.tableau.com/app/profile/shaik.khaja8261/viz/project_17704702197220/SalesPerformanceDashboard
 
 ![Dashboard Preview](dashboard/dashboard.png)
 
