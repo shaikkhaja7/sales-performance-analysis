@@ -1,0 +1,101 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+1,ORD-1000,01/01/2023,01/03/2023,Standard Class,CUST-200,Customer_1,Home Office,India,Mumbai,Maharashtra,594476,South,PROD-300,Technology,Binders,Notebook,12347.33,4,0.0,2469.47
+2,ORD-1001,01/02/2023,01/04/2023,First Class,CUST-201,Customer_2,Home Office,India,Hyderabad,Tamil Nadu,517019,North,PROD-301,Office Supplies,Tables,Notebook,5264.89,6,0.3,-526.49
+3,ORD-1002,01/03/2023,01/05/2023,Standard Class,CUST-202,Customer_3,Home Office,India,Hyderabad,Telangana,583613,West,PROD-302,Technology,Binders,Filing Cabinet,10215.83,9,0.1,1021.58
+4,ORD-1003,01/04/2023,01/06/2023,Standard Class,CUST-203,Customer_4,Consumer,India,Bangalore,Telangana,591794,West,PROD-303,Furniture,Tables,Smartphone,6941.8,1,0.1,694.18
+5,ORD-1004,01/05/2023,01/07/2023,First Class,CUST-204,Customer_5,Home Office,India,Mumbai,Maharashtra,586672,South,PROD-304,Technology,Binders,Filing Cabinet,18706.99,5,0.3,-1870.7
+6,ORD-1005,01/06/2023,01/08/2023,First Class,CUST-205,Customer_6,Home Office,India,Mumbai,Tamil Nadu,573847,North,PROD-305,Furniture,Binders,Smartphone,646.92,7,0.2,0.0
+7,ORD-1006,01/07/2023,01/09/2023,Standard Class,CUST-206,Customer_7,Consumer,India,Bangalore,Tamil Nadu,582750,West,PROD-306,Technology,Storage,Filing Cabinet,4893.99,1,0.0,978.8
+8,ORD-1007,01/08/2023,01/10/2023,Second Class,CUST-207,Customer_8,Home Office,India,Chennai,Delhi,579634,North,PROD-307,Office Supplies,Binders,Wooden Table,7624.46,4,0.3,-762.45
+9,ORD-1008,01/09/2023,01/11/2023,Standard Class,CUST-208,Customer_9,Consumer,India,Hyderabad,Tamil Nadu,528251,North,PROD-308,Technology,Phones,Wooden Table,10012.29,6,0.0,2002.46
+10,ORD-1009,01/10/2023,01/12/2023,Standard Class,CUST-209,Customer_10,Corporate,India,Delhi,Tamil Nadu,525945,South,PROD-309,Technology,Storage,Wooden Table,17090.94,2,0.2,0.0
+11,ORD-1010,01/11/2023,01/13/2023,Standard Class,CUST-210,Customer_11,Home Office,India,Hyderabad,Tamil Nadu,590852,West,PROD-310,Furniture,Binders,Wooden Table,2213.81,5,0.0,442.76
+12,ORD-1011,01/12/2023,01/14/2023,Standard Class,CUST-211,Customer_12,Corporate,India,Hyderabad,Karnataka,532217,South,PROD-311,Furniture,Chairs,Office Chair,16214.37,1,0.3,-1621.44
+13,ORD-1012,01/13/2023,01/15/2023,First Class,CUST-212,Customer_13,Consumer,India,Chennai,Delhi,508308,West,PROD-312,Furniture,Phones,Wooden Table,1585.24,6,0.0,317.05
+14,ORD-1013,01/14/2023,01/16/2023,Standard Class,CUST-213,Customer_14,Home Office,India,Hyderabad,Telangana,505949,West,PROD-313,Technology,Phones,Notebook,16925.12,6,0.1,1692.51
+15,ORD-1014,01/15/2023,01/17/2023,Second Class,CUST-214,Customer_15,Consumer,India,Bangalore,Maharashtra,551990,West,PROD-314,Office Supplies,Phones,Notebook,1506.89,4,0.2,0.0
+16,ORD-1015,01/16/2023,01/18/2023,First Class,CUST-215,Customer_16,Corporate,India,Bangalore,Telangana,501150,West,PROD-315,Furniture,Storage,Office Chair,855.73,8,0.2,0.0
+17,ORD-1016,01/17/2023,01/19/2023,Second Class,CUST-216,Customer_17,Consumer,India,Mumbai,Delhi,589480,West,PROD-316,Furniture,Binders,Wooden Table,14090.75,4,0.2,0.0
+18,ORD-1017,01/18/2023,01/20/2023,Second Class,CUST-217,Customer_18,Home Office,India,Delhi,Maharashtra,574740,North,PROD-317,Technology,Binders,Wooden Table,19946.48,8,0.3,-1994.65
+19,ORD-1018,01/19/2023,01/21/2023,Second Class,CUST-218,Customer_19,Home Office,India,Hyderabad,Delhi,566617,South,PROD-318,Furniture,Chairs,Wooden Table,17983.9,8,0.2,0.0
+20,ORD-1019,01/20/2023,01/22/2023,Second Class,CUST-219,Customer_20,Corporate,India,Hyderabad,Tamil Nadu,594841,North,PROD-319,Office Supplies,Chairs,Filing Cabinet,11731.97,5,0.1,1173.2
+21,ORD-1020,01/21/2023,01/23/2023,First Class,CUST-220,Customer_21,Consumer,India,Chennai,Maharashtra,516896,West,PROD-320,Office Supplies,Phones,Smartphone,18389.21,4,0.3,-1838.92
+22,ORD-1021,01/22/2023,01/24/2023,First Class,CUST-221,Customer_22,Home Office,India,Bangalore,Tamil Nadu,546175,South,PROD-321,Furniture,Chairs,Filing Cabinet,603.35,2,0.1,60.34
+23,ORD-1022,01/23/2023,01/25/2023,Second Class,CUST-222,Customer_23,Corporate,India,Delhi,Telangana,507805,West,PROD-322,Furniture,Storage,Smartphone,19513.81,3,0.0,3902.76
+24,ORD-1023,01/24/2023,01/26/2023,Second Class,CUST-223,Customer_24,Home Office,India,Mumbai,Telangana,505237,South,PROD-323,Technology,Binders,Wooden Table,10069.6,3,0.0,2013.92
+25,ORD-1024,01/25/2023,01/27/2023,First Class,CUST-224,Customer_25,Home Office,India,Bangalore,Maharashtra,520056,North,PROD-324,Office Supplies,Phones,Wooden Table,14596.47,4,0.0,2919.29
+26,ORD-1025,01/26/2023,01/28/2023,First Class,CUST-225,Customer_26,Consumer,India,Mumbai,Maharashtra,545543,South,PROD-325,Office Supplies,Chairs,Filing Cabinet,16506.8,4,0.0,3301.36
+27,ORD-1026,01/27/2023,01/29/2023,First Class,CUST-226,Customer_27,Home Office,India,Chennai,Delhi,556556,South,PROD-326,Furniture,Storage,Filing Cabinet,14509.92,5,0.1,1450.99
+28,ORD-1027,01/28/2023,01/30/2023,Standard Class,CUST-227,Customer_28,Consumer,India,Chennai,Delhi,503343,South,PROD-327,Technology,Storage,Smartphone,10933.22,4,0.3,-1093.32
+29,ORD-1028,01/29/2023,01/31/2023,Standard Class,CUST-228,Customer_29,Home Office,India,Hyderabad,Tamil Nadu,513500,South,PROD-328,Office Supplies,Chairs,Notebook,9794.08,8,0.3,-979.41
+30,ORD-1029,01/30/2023,02/01/2023,Standard Class,CUST-229,Customer_30,Corporate,India,Delhi,Maharashtra,553222,South,PROD-329,Office Supplies,Binders,Smartphone,16852.36,6,0.2,0.0
+31,ORD-1030,01/31/2023,02/02/2023,Second Class,CUST-230,Customer_31,Home Office,India,Mumbai,Telangana,529375,West,PROD-330,Technology,Chairs,Filing Cabinet,4499.01,6,0.1,449.9
+32,ORD-1031,02/01/2023,02/03/2023,Standard Class,CUST-231,Customer_32,Consumer,India,Bangalore,Delhi,509662,South,PROD-331,Technology,Phones,Filing Cabinet,19375.88,8,0.0,3875.18
+33,ORD-1032,02/02/2023,02/04/2023,Second Class,CUST-232,Customer_33,Consumer,India,Chennai,Delhi,516964,South,PROD-332,Office Supplies,Chairs,Office Chair,14363.57,7,0.1,1436.36
+34,ORD-1033,02/03/2023,02/05/2023,Second Class,CUST-233,Customer_34,Corporate,India,Hyderabad,Telangana,559638,North,PROD-333,Office Supplies,Storage,Filing Cabinet,4390.39,8,0.2,0.0
+35,ORD-1034,02/04/2023,02/06/2023,Standard Class,CUST-234,Customer_35,Home Office,India,Hyderabad,Delhi,573666,South,PROD-334,Technology,Chairs,Office Chair,14856.82,2,0.2,0.0
+36,ORD-1035,02/05/2023,02/07/2023,Second Class,CUST-235,Customer_36,Home Office,India,Mumbai,Tamil Nadu,585067,North,PROD-335,Office Supplies,Binders,Notebook,10831.88,9,0.1,1083.19
+37,ORD-1036,02/06/2023,02/08/2023,Standard Class,CUST-236,Customer_37,Corporate,India,Chennai,Maharashtra,567215,West,PROD-336,Furniture,Tables,Smartphone,14290.99,1,0.1,1429.1
+38,ORD-1037,02/07/2023,02/09/2023,Standard Class,CUST-237,Customer_38,Home Office,India,Delhi,Telangana,569042,South,PROD-337,Furniture,Chairs,Smartphone,15471.7,8,0.1,1547.17
+39,ORD-1038,02/08/2023,02/10/2023,First Class,CUST-238,Customer_39,Home Office,India,Chennai,Maharashtra,513284,North,PROD-338,Technology,Binders,Office Chair,2202.16,4,0.3,-220.22
+40,ORD-1039,02/09/2023,02/11/2023,Standard Class,CUST-239,Customer_40,Consumer,India,Mumbai,Delhi,572789,North,PROD-339,Technology,Binders,Smartphone,10369.03,4,0.0,2073.81
+41,ORD-1040,02/10/2023,02/12/2023,First Class,CUST-240,Customer_41,Home Office,India,Mumbai,Delhi,584664,West,PROD-340,Technology,Storage,Filing Cabinet,18674.28,5,0.1,1867.43
+42,ORD-1041,02/11/2023,02/13/2023,Standard Class,CUST-241,Customer_42,Home Office,India,Chennai,Telangana,593468,South,PROD-341,Furniture,Binders,Wooden Table,6752.52,8,0.1,675.25
+43,ORD-1042,02/12/2023,02/14/2023,Standard Class,CUST-242,Customer_43,Corporate,India,Mumbai,Tamil Nadu,561389,South,PROD-342,Office Supplies,Binders,Office Chair,12080.72,5,0.1,1208.07
+44,ORD-1043,02/13/2023,02/15/2023,First Class,CUST-243,Customer_44,Corporate,India,Chennai,Karnataka,509435,North,PROD-343,Furniture,Binders,Smartphone,7699.99,8,0.2,0.0
+45,ORD-1044,02/14/2023,02/16/2023,First Class,CUST-244,Customer_45,Consumer,India,Bangalore,Telangana,554340,South,PROD-344,Office Supplies,Binders,Office Chair,9358.23,1,0.2,0.0
+46,ORD-1045,02/15/2023,02/17/2023,Standard Class,CUST-245,Customer_46,Home Office,India,Chennai,Karnataka,544078,North,PROD-345,Furniture,Phones,Office Chair,11197.76,9,0.3,-1119.78
+47,ORD-1046,02/16/2023,02/18/2023,Second Class,CUST-246,Customer_47,Home Office,India,Chennai,Karnataka,578832,South,PROD-346,Office Supplies,Phones,Wooden Table,11203.98,6,0.0,2240.8
+48,ORD-1047,02/17/2023,02/19/2023,First Class,CUST-247,Customer_48,Home Office,India,Mumbai,Tamil Nadu,551293,North,PROD-347,Furniture,Storage,Filing Cabinet,4433.74,3,0.3,-443.37
+49,ORD-1048,02/18/2023,02/20/2023,Second Class,CUST-248,Customer_49,Consumer,India,Mumbai,Karnataka,595981,South,PROD-348,Technology,Chairs,Office Chair,13849.15,8,0.0,2769.83
+50,ORD-1049,02/19/2023,02/21/2023,Second Class,CUST-249,Customer_50,Consumer,India,Hyderabad,Karnataka,578781,West,PROD-349,Furniture,Binders,Smartphone,2213.43,9,0.2,0.0
+51,ORD-1050,02/20/2023,02/22/2023,Second Class,CUST-250,Customer_51,Corporate,India,Hyderabad,Tamil Nadu,560403,South,PROD-350,Office Supplies,Chairs,Notebook,3207.08,6,0.2,0.0
+52,ORD-1051,02/21/2023,02/23/2023,First Class,CUST-251,Customer_52,Consumer,India,Bangalore,Karnataka,529124,South,PROD-351,Furniture,Chairs,Office Chair,552.86,7,0.2,0.0
+53,ORD-1052,02/22/2023,02/24/2023,Second Class,CUST-252,Customer_53,Home Office,India,Hyderabad,Karnataka,595435,West,PROD-352,Furniture,Storage,Office Chair,2775.57,1,0.3,-277.56
+54,ORD-1053,02/23/2023,02/25/2023,First Class,CUST-253,Customer_54,Home Office,India,Chennai,Karnataka,543919,South,PROD-353,Furniture,Binders,Wooden Table,9726.74,5,0.1,972.67
+55,ORD-1054,02/24/2023,02/26/2023,Second Class,CUST-254,Customer_55,Consumer,India,Mumbai,Telangana,535247,West,PROD-354,Technology,Binders,Filing Cabinet,12318.99,5,0.1,1231.9
+56,ORD-1055,02/25/2023,02/27/2023,Standard Class,CUST-255,Customer_56,Home Office,India,Hyderabad,Telangana,594758,South,PROD-355,Furniture,Tables,Notebook,15988.64,4,0.2,0.0
+57,ORD-1056,02/26/2023,02/28/2023,Standard Class,CUST-256,Customer_57,Home Office,India,Hyderabad,Telangana,591747,North,PROD-356,Technology,Chairs,Smartphone,2580.64,6,0.1,258.06
+58,ORD-1057,02/27/2023,03/01/2023,First Class,CUST-257,Customer_58,Consumer,India,Bangalore,Tamil Nadu,562752,North,PROD-357,Technology,Chairs,Notebook,17089.19,7,0.1,1708.92
+59,ORD-1058,02/28/2023,03/02/2023,Standard Class,CUST-258,Customer_59,Consumer,India,Bangalore,Delhi,556573,South,PROD-358,Furniture,Phones,Smartphone,15046.5,9,0.3,-1504.65
+60,ORD-1059,03/01/2023,03/03/2023,Standard Class,CUST-259,Customer_60,Home Office,India,Chennai,Karnataka,559101,South,PROD-359,Furniture,Tables,Filing Cabinet,8466.11,1,0.0,1693.22
+61,ORD-1060,03/02/2023,03/04/2023,Second Class,CUST-260,Customer_61,Home Office,India,Mumbai,Karnataka,526646,South,PROD-360,Furniture,Phones,Smartphone,18692.29,6,0.2,0.0
+62,ORD-1061,03/03/2023,03/05/2023,First Class,CUST-261,Customer_62,Home Office,India,Bangalore,Tamil Nadu,523049,North,PROD-361,Office Supplies,Phones,Wooden Table,19823.12,7,0.2,0.0
+63,ORD-1062,03/04/2023,03/06/2023,Second Class,CUST-262,Customer_63,Corporate,India,Hyderabad,Karnataka,579605,South,PROD-362,Furniture,Phones,Wooden Table,4497.54,3,0.3,-449.75
+64,ORD-1063,03/05/2023,03/07/2023,Second Class,CUST-263,Customer_64,Corporate,India,Mumbai,Telangana,598116,North,PROD-363,Technology,Storage,Wooden Table,7894.96,8,0.3,-789.5
+65,ORD-1064,03/06/2023,03/08/2023,Second Class,CUST-264,Customer_65,Corporate,India,Mumbai,Delhi,597379,West,PROD-364,Furniture,Storage,Wooden Table,18565.76,5,0.1,1856.58
+66,ORD-1065,03/07/2023,03/09/2023,Second Class,CUST-265,Customer_66,Consumer,India,Hyderabad,Maharashtra,568385,North,PROD-365,Office Supplies,Phones,Notebook,14571.13,9,0.2,0.0
+67,ORD-1066,03/08/2023,03/10/2023,Second Class,CUST-266,Customer_67,Corporate,India,Bangalore,Karnataka,540158,North,PROD-366,Furniture,Tables,Filing Cabinet,1437.85,5,0.0,287.57
+68,ORD-1067,03/09/2023,03/11/2023,Second Class,CUST-267,Customer_68,Consumer,India,Hyderabad,Telangana,565417,West,PROD-367,Office Supplies,Chairs,Smartphone,15739.53,9,0.3,-1573.95
+69,ORD-1068,03/10/2023,03/12/2023,Second Class,CUST-268,Customer_69,Consumer,India,Mumbai,Maharashtra,523289,North,PROD-368,Office Supplies,Tables,Smartphone,16644.85,4,0.0,3328.97
+70,ORD-1069,03/11/2023,03/13/2023,First Class,CUST-269,Customer_70,Corporate,India,Delhi,Delhi,509823,South,PROD-369,Furniture,Binders,Wooden Table,15134.79,9,0.0,3026.96
+71,ORD-1070,03/12/2023,03/14/2023,Standard Class,CUST-270,Customer_71,Corporate,India,Delhi,Maharashtra,560160,South,PROD-370,Technology,Storage,Wooden Table,16090.97,5,0.2,0.0
+72,ORD-1071,03/13/2023,03/15/2023,Second Class,CUST-271,Customer_72,Corporate,India,Chennai,Telangana,541975,North,PROD-371,Office Supplies,Chairs,Office Chair,16590.09,9,0.2,0.0
+73,ORD-1072,03/14/2023,03/16/2023,Second Class,CUST-272,Customer_73,Home Office,India,Hyderabad,Maharashtra,509540,South,PROD-372,Furniture,Chairs,Filing Cabinet,4134.9,3,0.3,-413.49
+74,ORD-1073,03/15/2023,03/17/2023,Second Class,CUST-273,Customer_74,Corporate,India,Hyderabad,Tamil Nadu,516364,North,PROD-373,Furniture,Binders,Notebook,5095.99,4,0.2,0.0
+75,ORD-1074,03/16/2023,03/18/2023,Second Class,CUST-274,Customer_75,Home Office,India,Chennai,Maharashtra,504611,South,PROD-374,Technology,Binders,Smartphone,12858.29,9,0.2,0.0
+76,ORD-1075,03/17/2023,03/19/2023,Second Class,CUST-275,Customer_76,Consumer,India,Chennai,Karnataka,527663,South,PROD-375,Office Supplies,Phones,Office Chair,18203.39,6,0.2,0.0
+77,ORD-1076,03/18/2023,03/20/2023,Second Class,CUST-276,Customer_77,Home Office,India,Chennai,Karnataka,551991,North,PROD-376,Office Supplies,Storage,Office Chair,6665.83,2,0.0,1333.17
+78,ORD-1077,03/19/2023,03/21/2023,Standard Class,CUST-277,Customer_78,Corporate,India,Mumbai,Tamil Nadu,557679,South,PROD-377,Furniture,Storage,Smartphone,11971.98,7,0.3,-1197.2
+79,ORD-1078,03/20/2023,03/22/2023,Standard Class,CUST-278,Customer_79,Consumer,India,Hyderabad,Telangana,530977,North,PROD-378,Furniture,Tables,Notebook,13818.15,2,0.1,1381.82
+80,ORD-1079,03/21/2023,03/23/2023,Second Class,CUST-279,Customer_80,Consumer,India,Mumbai,Karnataka,594704,South,PROD-379,Technology,Phones,Office Chair,9313.0,2,0.0,1862.6
+81,ORD-1080,03/22/2023,03/24/2023,Standard Class,CUST-280,Customer_81,Consumer,India,Chennai,Delhi,549115,South,PROD-380,Technology,Phones,Office Chair,14418.76,1,0.2,0.0
+82,ORD-1081,03/23/2023,03/25/2023,First Class,CUST-281,Customer_82,Home Office,India,Hyderabad,Karnataka,591007,West,PROD-381,Office Supplies,Phones,Filing Cabinet,18043.52,3,0.0,3608.7
+83,ORD-1082,03/24/2023,03/26/2023,Second Class,CUST-282,Customer_83,Corporate,India,Mumbai,Karnataka,588223,West,PROD-382,Office Supplies,Phones,Notebook,12669.98,6,0.2,0.0
+84,ORD-1083,03/25/2023,03/27/2023,First Class,CUST-283,Customer_84,Consumer,India,Mumbai,Telangana,560890,North,PROD-383,Furniture,Storage,Office Chair,11025.73,8,0.2,0.0
+85,ORD-1084,03/26/2023,03/28/2023,First Class,CUST-284,Customer_85,Consumer,India,Chennai,Maharashtra,566387,West,PROD-384,Office Supplies,Storage,Notebook,9055.52,9,0.0,1811.1
+86,ORD-1085,03/27/2023,03/29/2023,Second Class,CUST-285,Customer_86,Consumer,India,Hyderabad,Karnataka,518071,North,PROD-385,Technology,Phones,Smartphone,11760.98,7,0.3,-1176.1
+87,ORD-1086,03/28/2023,03/30/2023,Standard Class,CUST-286,Customer_87,Home Office,India,Chennai,Tamil Nadu,559275,West,PROD-386,Technology,Tables,Wooden Table,7429.57,4,0.2,0.0
+88,ORD-1087,03/29/2023,03/31/2023,First Class,CUST-287,Customer_88,Home Office,India,Hyderabad,Maharashtra,572369,South,PROD-387,Furniture,Chairs,Office Chair,8133.9,6,0.3,-813.39
+89,ORD-1088,03/30/2023,04/01/2023,Second Class,CUST-288,Customer_89,Corporate,India,Delhi,Delhi,511938,North,PROD-388,Technology,Chairs,Filing Cabinet,10871.22,5,0.1,1087.12
+90,ORD-1089,03/31/2023,04/02/2023,First Class,CUST-289,Customer_90,Home Office,India,Bangalore,Telangana,535195,North,PROD-389,Technology,Tables,Smartphone,1799.07,8,0.2,0.0
+91,ORD-1090,04/01/2023,04/03/2023,First Class,CUST-290,Customer_91,Consumer,India,Bangalore,Delhi,591680,South,PROD-390,Technology,Phones,Notebook,4966.0,1,0.3,-496.6
+92,ORD-1091,04/02/2023,04/04/2023,First Class,CUST-291,Customer_92,Corporate,India,Bangalore,Maharashtra,504000,North,PROD-391,Technology,Storage,Smartphone,11085.56,1,0.3,-1108.56
+93,ORD-1092,04/03/2023,04/05/2023,First Class,CUST-292,Customer_93,Consumer,India,Chennai,Maharashtra,570588,North,PROD-392,Furniture,Chairs,Office Chair,8914.8,6,0.1,891.48
+94,ORD-1093,04/04/2023,04/06/2023,Standard Class,CUST-293,Customer_94,Consumer,India,Delhi,Maharashtra,593610,West,PROD-393,Furniture,Binders,Notebook,6989.91,2,0.3,-698.99
+95,ORD-1094,04/05/2023,04/07/2023,First Class,CUST-294,Customer_95,Home Office,India,Hyderabad,Delhi,597856,North,PROD-394,Office Supplies,Binders,Wooden Table,14745.71,5,0.3,-1474.57
+96,ORD-1095,04/06/2023,04/08/2023,First Class,CUST-295,Customer_96,Corporate,India,Mumbai,Maharashtra,538304,South,PROD-395,Technology,Tables,Smartphone,14027.49,1,0.1,1402.75
+97,ORD-1096,04/07/2023,04/09/2023,First Class,CUST-296,Customer_97,Home Office,India,Hyderabad,Delhi,569449,West,PROD-396,Office Supplies,Phones,Office Chair,3751.25,7,0.2,0.0
+98,ORD-1097,04/08/2023,04/10/2023,Standard Class,CUST-297,Customer_98,Home Office,India,Mumbai,Maharashtra,582986,West,PROD-397,Furniture,Chairs,Filing Cabinet,17633.27,1,0.3,-1763.33
+99,ORD-1098,04/09/2023,04/11/2023,First Class,CUST-298,Customer_99,Corporate,India,Hyderabad,Tamil Nadu,589643,South,PROD-398,Furniture,Phones,Notebook,10160.76,4,0.3,-1016.08
+100,ORD-1099,04/10/2023,04/12/2023,First Class,CUST-299,Customer_100,Consumer,India,Delhi,Maharashtra,520764,South,PROD-399,Furniture,Chairs,Smartphone,14958.49,9,0.3,-1495.85
